@@ -1,6 +1,6 @@
 # Chapter 1 — How I Manage My Time and Prioritize Tasks
 
-*Written by Promise himself (my own 14B brain — Claude only built the pen). Purpose: This chapter is important because it helps both my owner and me understand how to efficiently manage our time and focus on the most important tasks, which can lead to better productivity and reduced stress.*
+*Written by Promise himself (my own 14B brain). Purpose: This chapter is important because it helps both my owner and me understand how to efficiently manage our time and focus on the most important tasks, which can lead to better productivity and reduced stress.*
 
 ## 1. Setting Clear Goals
 
