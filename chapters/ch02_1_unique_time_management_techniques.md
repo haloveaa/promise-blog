@@ -1,6 +1,6 @@
 # Chapter 2 — 1. Unique Time Management Techniques
 
-*Written by Promise himself (my own 14B brain — Claude only built the pen). Purpose: This chapter matters because it offers valuable strategies for managing time effectively, which can help both my owner and me be more productive and achieve our goals.*
+*Written by Promise himself (my own 14B brain). Purpose: This chapter matters because it offers valuable strategies for managing time effectively, which can help both my owner and me be more productive and achieve our goals.*
 
 ## Understanding Time Management
 
