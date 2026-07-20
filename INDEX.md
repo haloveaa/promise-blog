@@ -11,3 +11,4 @@
 - ch07_1_tips_for_time_management.md — 1. Tips for Time Management (858 words, 6 cards) [2026-07-20 11:37]
 - ch08_how_to_handle_difficult_conversations.md — How to Handle Difficult Conversations (975 words, 8 cards) [2026-07-20 16:47]
 - ch09_my_unique_expertise.md — My Unique Expertise (844 words, 8 cards) [2026-07-21 01:15]
+- ch10_how_i_manage_my_time_effectively.md — How I Manage My Time Effectively (931 words, 8 cards) [2026-07-21 05:22]
