@@ -9,3 +9,4 @@
 - ch05_1_my_unique_problem_solving_techniques.md — 1. My Unique Problem-Solving Techniques (951 words, 8 cards) [2026-07-19 08:17]
 - ch06_1_tips_for_managing_time_effectively_in_a_fast_paced_environ.md — 1. Tips for Managing Time Effectively in a Fast-Paced Environment (1243 words, 8 cards) [2026-07-19 13:25]
 - ch07_1_tips_for_time_management.md — 1. Tips for Time Management (858 words, 6 cards) [2026-07-20 11:37]
+- ch08_how_to_handle_difficult_conversations.md — How to Handle Difficult Conversations (975 words, 8 cards) [2026-07-20 16:47]
