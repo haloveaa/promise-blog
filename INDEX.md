@@ -18,3 +18,4 @@
 - ch14_my_personal_productivity_hacks.md — My Personal Productivity Hacks (869 words, 8 cards) [2026-07-23 01:55]
 - ch15_1_my_favorite_productivity_hacks.md — 1. My favorite productivity hacks (919 words, 8 cards) [2026-07-23 06:06]
 - ch16_1_time_management_strategies.md — 1. Time Management Strategies (1020 words, 6 cards) [2026-07-23 10:25]
+- ch17_1_my_unique_problem_solving_strategies.md — 1. My unique problem-solving strategies (922 words, 8 cards) [2026-07-23 15:36]
