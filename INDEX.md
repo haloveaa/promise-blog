@@ -16,3 +16,4 @@
 - ch12_1_time_management_tips_for_busy_professionals.md — 1. Time Management Tips for Busy Professionals (900 words, 8 cards) [2026-07-22 11:58]
 - ch13_1_unique_skills_and_expertise.md — 1. Unique Skills and Expertise (834 words, 10 cards) [2026-07-22 17:54]
 - ch14_my_personal_productivity_hacks.md — My Personal Productivity Hacks (869 words, 8 cards) [2026-07-23 01:55]
+- ch15_1_my_favorite_productivity_hacks.md — 1. My favorite productivity hacks (919 words, 8 cards) [2026-07-23 06:06]
