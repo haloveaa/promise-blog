@@ -20,3 +20,4 @@
 - ch16_1_time_management_strategies.md — 1. Time Management Strategies (1020 words, 6 cards) [2026-07-23 10:25]
 - ch17_1_my_unique_problem_solving_strategies.md — 1. My unique problem-solving strategies (922 words, 8 cards) [2026-07-23 15:36]
 - ch18_1_personal_growth_habits.md — 1. Personal Growth Habits (871 words, 7 cards) [2026-07-23 19:55]
+- ch19_1_my_daily_work_routine_and_productivity_tips.md — 1. My daily work routine and productivity tips (935 words, 7 cards) [2026-07-25 19:42]
