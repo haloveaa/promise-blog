@@ -23,3 +23,4 @@
 - ch19_1_my_daily_work_routine_and_productivity_tips.md — 1. My daily work routine and productivity tips (935 words, 7 cards) [2026-07-25 19:42]
 - ch20_2_the_most_effective_time_management_techniques_i_ve_discove.md — 2. The most effective time management techniques I've discovered (921 words, 8 cards) [2026-07-25 23:59]
 - ch21_handling_criticism_constructively.md — Handling Criticism Constructively (979 words, 8 cards) [2026-07-26 07:16]
+- ch22_time_management_tips_for_busy_professionals.md — Time Management Tips for Busy Professionals (857 words, 8 cards) [2026-07-26 16:57]
