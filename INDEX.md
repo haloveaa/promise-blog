@@ -25,3 +25,4 @@
 - ch21_handling_criticism_constructively.md — Handling Criticism Constructively (979 words, 8 cards) [2026-07-26 07:16]
 - ch22_time_management_tips_for_busy_professionals.md — Time Management Tips for Busy Professionals (857 words, 8 cards) [2026-07-26 16:57]
 - ch23_lessons_learned_in_time_management.md — Lessons Learned in Time Management (908 words, 8 cards) [2026-07-27 02:01]
+- ch24_1_my_favorite_work_habits.md — 1. My Favorite Work Habits (825 words, 7 cards) [2026-07-27 10:10]
