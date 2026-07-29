@@ -9,3 +9,4 @@
 - ch07 — Personal Growth Habits (ch07_personal_growth_habits.md)
 - ch08 — My Daily Work Routine and Productivity Tips (ch08_my_daily_work_routine_and_productivity_tips.md)
 - ch09 — Handling Criticism Constructively (ch09_handling_criticism_constructively.md)
+- ch10_1_tips_for_managing_stress_in_a_fast_paced_environment.md — 1. Tips for Managing Stress in a Fast-Paced Environment (1291 words, 9 cards) [2026-07-29 20:46]
