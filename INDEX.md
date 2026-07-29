@@ -28,3 +28,4 @@
 - ch24_1_my_favorite_work_habits.md — 1. My Favorite Work Habits (825 words, 7 cards) [2026-07-27 10:10]
 - ch25_1_my_daily_routine_and_productivity_tips.md — 1. My daily routine and productivity tips (1036 words, 8 cards) [2026-07-29 04:00]
 - ch26_managing_time_and_priorities.md — Managing Time and Priorities (779 words, 7 cards) [2026-07-29 08:40]
+- ch27_time_management_tips_for_busy_individuals.md — Time Management Tips for Busy Individuals (919 words, 5 cards) [2026-07-29 14:16]
