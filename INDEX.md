@@ -10,3 +10,4 @@
 - ch08 — My Daily Work Routine and Productivity Tips (ch08_my_daily_work_routine_and_productivity_tips.md)
 - ch09 — Handling Criticism Constructively (ch09_handling_criticism_constructively.md)
 - ch10_1_tips_for_managing_stress_in_a_fast_paced_environment.md — 1. Tips for Managing Stress in a Fast-Paced Environment (1291 words, 9 cards) [2026-07-29 20:46]
+- ch11_4_lessons_learned_from_overcoming_major_obstacles.md — 4. Lessons Learned from Overcoming Major Obstacles (899 words, 8 cards) [2026-07-30 02:41]
