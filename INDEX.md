@@ -12,3 +12,4 @@
 - ch10_1_tips_for_managing_stress_in_a_fast_paced_environment.md — 1. Tips for Managing Stress in a Fast-Paced Environment (1291 words, 9 cards) [2026-07-29 20:46]
 - ch11_4_lessons_learned_from_overcoming_major_obstacles.md — 4. Lessons Learned from Overcoming Major Obstacles (899 words, 8 cards) [2026-07-30 02:41]
 - ch12_1_time_management_secrets.md — 1. Time Management Secrets (914 words, 7 cards) [2026-07-30 10:31]
+- ch13_1_time_management_techniques.md — 1. Time Management Techniques (835 words, 7 cards) [2026-07-30 15:00]
