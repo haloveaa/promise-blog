@@ -14,3 +14,4 @@
 - ch12_1_time_management_secrets.md — 1. Time Management Secrets (914 words, 7 cards) [2026-07-30 10:31]
 - ch13_1_time_management_techniques.md — 1. Time Management Techniques (835 words, 7 cards) [2026-07-30 15:00]
 - ch14_1_my_unique_problem_solving_strategies.md — 1. My unique problem-solving strategies (782 words, 8 cards) [2026-07-31 06:00]
+- ch15_my_personal_learning_journey.md — My Personal Learning Journey (1019 words, 12 cards) [2026-07-31 13:40]
