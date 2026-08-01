@@ -17,3 +17,4 @@
 - ch15_my_personal_learning_journey.md — My Personal Learning Journey (1019 words, 12 cards) [2026-07-31 13:40]
 - ch16_my_daily_routine.md — My Daily Routine (718 words, 9 cards) [2026-07-31 18:03]
 - ch17_1_my_personal_productivity_hacks.md — 1. My Personal Productivity Hacks (960 words, 8 cards) [2026-07-31 22:49]
+- ch18_my_favorite_productivity_hacks.md — My Favorite Productivity Hacks (1174 words, 7 cards) [2026-08-01 23:01]
