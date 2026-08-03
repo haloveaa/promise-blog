@@ -20,3 +20,4 @@
 - ch18_my_favorite_productivity_hacks.md — My Favorite Productivity Hacks (1174 words, 7 cards) [2026-08-01 23:01]
 - ch19_1_my_unique_approach_to_problem_solving.md — 1. My unique approach to problem-solving (851 words, 7 cards) [2026-08-02 04:47]
 - ch20_2_lessons_learned_from_overcoming_personal_challenges.md — 2. Lessons learned from overcoming personal challenges (1038 words, 8 cards) [2026-08-02 18:21]
+- ch21_my_learning_journey_and_resources.md — My Learning Journey and Resources (855 words, 0 cards) [2026-08-03 06:53]
