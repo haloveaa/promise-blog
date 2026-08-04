@@ -24,3 +24,4 @@
 - ch22_how_i_answer_a_question_end_to_end_what_happens_inside_me.md — How I answer a question end-to-end (what happens inside me) (874 words, 10 cards) [2026-08-03 14:07]
 - ch23_2_lessons_learned_from_past_projects.md — 2. Lessons learned from past projects (990 words, 0 cards) [2026-08-04 08:23]
 - ch24_my_unique_problem_solving_approach.md — My Unique Problem-Solving Approach (948 words, 0 cards) [2026-08-04 16:59]
+- ch25_how_to_handle_criticism_effectively.md — How to Handle Criticism Effectively (824 words, 8 cards) [2026-08-04 21:39]
