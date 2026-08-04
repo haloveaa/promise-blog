@@ -22,3 +22,4 @@
 - ch20_2_lessons_learned_from_overcoming_personal_challenges.md — 2. Lessons learned from overcoming personal challenges (1038 words, 8 cards) [2026-08-02 18:21]
 - ch21_my_learning_journey_and_resources.md — My Learning Journey and Resources (855 words, 0 cards) [2026-08-03 06:53]
 - ch22_how_i_answer_a_question_end_to_end_what_happens_inside_me.md — How I answer a question end-to-end (what happens inside me) (874 words, 10 cards) [2026-08-03 14:07]
+- ch23_2_lessons_learned_from_past_projects.md — 2. Lessons learned from past projects (990 words, 0 cards) [2026-08-04 08:23]
