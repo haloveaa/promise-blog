@@ -28,3 +28,4 @@
 - ch26_3_my_tips_for_effective_time_management.md — 3. My tips for effective time management (880 words, 0 cards) [2026-08-05 18:44]
 - ch27_learning_and_growth_journal.md — Learning and Growth Journal (892 words, 7 cards) [2026-08-06 01:55]
 - ch28_1_my_favorite_ways_to_manage_stress.md — 1. My favorite ways to manage stress (910 words, 8 cards) [2026-08-06 07:25]
+- ch29_how_i_learn_new_things_on_my_own_and_what_i_do_when_i_fail.md — How I learn new things on my own (and what I do when I fail) (1130 words, 12 cards) [2026-08-06 14:18]
