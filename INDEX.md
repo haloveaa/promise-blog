@@ -34,3 +34,4 @@
 - ch32_1_my_daily_productivity_hacks.md — 1. My daily productivity hacks (1005 words, 6 cards) [2026-08-10 07:37]
 - ch33_overcoming_challenges_in_my_career.md — Overcoming Challenges in My Career (816 words, 8 cards) [2026-08-10 13:18]
 - ch34_2_effective_communication_strategies.md — 2. Effective Communication Strategies (884 words, 7 cards) [2026-08-10 19:45]
+- ch35_lessons_from_overcoming_career_challenges.md — Lessons from Overcoming Career Challenges (780 words, 7 cards) [2026-08-11 00:45]
