@@ -36,3 +36,4 @@
 - ch34_2_effective_communication_strategies.md — 2. Effective Communication Strategies (884 words, 7 cards) [2026-08-10 19:45]
 - ch35_lessons_from_overcoming_career_challenges.md — Lessons from Overcoming Career Challenges (780 words, 7 cards) [2026-08-11 00:45]
 - ch36_my_personal_story.md — My Personal Story (862 words, 8 cards) [2026-08-11 04:50]
+- ch37_2_overcoming_procrastination_techniques.md — 2. Overcoming Procrastination Techniques (1116 words, 6 cards) [2026-08-11 08:56]
