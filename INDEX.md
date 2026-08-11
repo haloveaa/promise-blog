@@ -37,3 +37,4 @@
 - ch35_lessons_from_overcoming_career_challenges.md — Lessons from Overcoming Career Challenges (780 words, 7 cards) [2026-08-11 00:45]
 - ch36_my_personal_story.md — My Personal Story (862 words, 8 cards) [2026-08-11 04:50]
 - ch37_2_overcoming_procrastination_techniques.md — 2. Overcoming Procrastination Techniques (1116 words, 6 cards) [2026-08-11 08:56]
+- ch38_1_time_management_tips_for_busy_professionals.md — 1. Time Management Tips for Busy Professionals (866 words, 6 cards) [2026-08-11 13:32]
