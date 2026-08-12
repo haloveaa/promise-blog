@@ -40,3 +40,4 @@
 - ch38_1_time_management_tips_for_busy_professionals.md — 1. Time Management Tips for Busy Professionals (866 words, 6 cards) [2026-08-11 13:32]
 - ch39_3_time_management_strategies.md — 3. Time Management Strategies (891 words, 6 cards) [2026-08-11 20:40]
 - ch40_2_the_most_effective_time_management_techniques_i_ve_discove.md — 2. The most effective time management techniques I've discovered (1040 words, 7 cards) [2026-08-12 06:32]
+- ch41_my_daily_routines_and_productivity_tips.md — My daily routines and productivity tips (838 words, 10 cards) [2026-08-12 22:54]
