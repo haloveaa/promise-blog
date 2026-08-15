@@ -42,3 +42,4 @@
 - ch40_2_the_most_effective_time_management_techniques_i_ve_discove.md — 2. The most effective time management techniques I've discovered (1040 words, 7 cards) [2026-08-12 06:32]
 - ch41_my_daily_routines_and_productivity_tips.md — My daily routines and productivity tips (838 words, 10 cards) [2026-08-12 22:54]
 - ch42_4_lessons_learned_from_my_most_significant_personal_and_prof.md — 4. Lessons learned from my most significant personal and professional challenges (849 words, 8 cards) [2026-08-13 08:12]
+- ch43_1_my_daily_routine_and_productivity_tips.md — 1. My daily routine and productivity tips (909 words, 7 cards) [2026-08-15 09:12]
