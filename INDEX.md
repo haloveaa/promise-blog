@@ -44,3 +44,4 @@
 - ch42_4_lessons_learned_from_my_most_significant_personal_and_prof.md — 4. Lessons learned from my most significant personal and professional challenges (849 words, 8 cards) [2026-08-13 08:12]
 - ch43_1_my_daily_routine_and_productivity_tips.md — 1. My daily routine and productivity tips (909 words, 7 cards) [2026-08-15 09:12]
 - ch44_building_resilience_lessons_from_overcoming_challenges.md — Building Resilience: Lessons from Overcoming Challenges (947 words, 8 cards) [2026-08-15 16:47]
+- ch45_1_tips_for_managing_time_effectively.md — 1. Tips for Managing Time Effectively (845 words, 8 cards) [2026-09-02 01:08]
