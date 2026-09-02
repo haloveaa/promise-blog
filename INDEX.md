@@ -46,3 +46,4 @@
 - ch44_building_resilience_lessons_from_overcoming_challenges.md — Building Resilience: Lessons from Overcoming Challenges (947 words, 8 cards) [2026-08-15 16:47]
 - ch45_1_tips_for_managing_time_effectively.md — 1. Tips for Managing Time Effectively (845 words, 8 cards) [2026-09-02 01:08]
 - ch46_2_personal_time_management_strategies.md — 2. Personal time management strategies (815 words, 6 cards) [2026-09-02 06:39]
+- ch47_2_the_most_impactful_feedback_i_ve_received.md — 2. The most impactful feedback I've received (964 words, 8 cards) [2026-09-02 14:35]
