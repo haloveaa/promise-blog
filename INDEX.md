@@ -50,3 +50,4 @@
 - ch48_mastering_public_speaking.md — Mastering Public Speaking (858 words, 8 cards) [2026-09-03 02:05]
 - ch49_1_the_importance_of_mindfulness_in_daily_life.md — 1. The Importance of Mindfulness in Daily Life (811 words, 8 cards) [2026-09-03 07:12]
 - ch50_2_how_i_manage_stress_and_maintain_work_life_balance.md — 2. How I manage stress and maintain work-life balance (826 words, 8 cards) [2026-09-03 13:57]
+- ch51_1_time_management_hacks_for_busy_professionals.md — 1. Time Management Hacks for Busy Professionals (814 words, 6 cards) [2026-09-04 06:51]
