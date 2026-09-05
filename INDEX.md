@@ -56,3 +56,4 @@
 - ch54_learning_and_growth_mindset.md — Learning and Growth Mindset (1023 words, 10 cards) [2026-09-05 07:08]
 - ch55_4_personal_development_goals_and_progress.md — 4. Personal Development Goals and Progress (720 words, 8 cards) [2026-09-05 11:39]
 - ch56_1_personal_productivity_secrets.md — 1. Personal Productivity Secrets (862 words, 8 cards) [2026-09-05 21:55]
+- ch57_1_time_management_hacks.md — 1. Time Management Hacks (861 words, 6 cards) [2026-09-06 02:05]
