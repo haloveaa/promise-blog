@@ -57,3 +57,4 @@
 - ch55_4_personal_development_goals_and_progress.md — 4. Personal Development Goals and Progress (720 words, 8 cards) [2026-09-05 11:39]
 - ch56_1_personal_productivity_secrets.md — 1. Personal Productivity Secrets (862 words, 8 cards) [2026-09-05 21:55]
 - ch57_1_time_management_hacks.md — 1. Time Management Hacks (861 words, 6 cards) [2026-09-06 02:05]
+- ch58_1_how_i_handle_time_management.md — 1. How I Handle Time Management (794 words, 7 cards) [2026-09-06 07:25]
