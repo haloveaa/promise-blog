@@ -58,3 +58,4 @@
 - ch56_1_personal_productivity_secrets.md — 1. Personal Productivity Secrets (862 words, 8 cards) [2026-09-05 21:55]
 - ch57_1_time_management_hacks.md — 1. Time Management Hacks (861 words, 6 cards) [2026-09-06 02:05]
 - ch58_1_how_i_handle_time_management.md — 1. How I Handle Time Management (794 words, 7 cards) [2026-09-06 07:25]
+- ch59_how_my_honest_refusal_works_refuses_to_fabricate_when_no_gro.md — How my honest refusal works — Refuses to fabricate when no grounded source answers a factual lookup (anti-hallucination gate). (777 words, 9 cards) [2026-09-07 05:50]
