@@ -59,3 +59,4 @@
 - ch57_1_time_management_hacks.md — 1. Time Management Hacks (861 words, 6 cards) [2026-09-06 02:05]
 - ch58_1_how_i_handle_time_management.md — 1. How I Handle Time Management (794 words, 7 cards) [2026-09-06 07:25]
 - ch59_how_my_honest_refusal_works_refuses_to_fabricate_when_no_gro.md — How my honest refusal works — Refuses to fabricate when no grounded source answers a factual lookup (anti-hallucination gate). (777 words, 9 cards) [2026-09-07 05:50]
+- ch60_how_my_route_works_the_master_router_decides_how_to_answer_c.md — How my route works — The master router: decides HOW to answer (correction→composite→arithmetic→tools→ledger→library→web→r (792 words, 8 cards) [2026-09-07 13:30]
