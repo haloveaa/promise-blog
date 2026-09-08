@@ -61,3 +61,4 @@
 - ch59_how_my_honest_refusal_works_refuses_to_fabricate_when_no_gro.md — How my honest refusal works — Refuses to fabricate when no grounded source answers a factual lookup (anti-hallucination gate). (777 words, 9 cards) [2026-09-07 05:50]
 - ch60_how_my_route_works_the_master_router_decides_how_to_answer_c.md — How my route works — The master router: decides HOW to answer (correction→composite→arithmetic→tools→ledger→library→web→r (792 words, 8 cards) [2026-09-07 13:30]
 - ch61_how_my_arithmetic_answer_works_deterministic_calculator_for_.md — How my arithmetic answer works — Deterministic calculator for known math families (×, %, gcd, sequences, last-digit-of-power...). (789 words, 8 cards) [2026-09-08 03:09]
+- ch62_what_i_can_and_cannot_do_my_honest_limits.md — What I can and cannot do — my honest limits (815 words, 8 cards) [2026-09-08 12:57]
