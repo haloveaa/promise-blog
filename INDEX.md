@@ -64,3 +64,4 @@
 - ch62_what_i_can_and_cannot_do_my_honest_limits.md — What I can and cannot do — my honest limits (815 words, 8 cards) [2026-09-08 12:57]
 - ch63_how_i_talk_my_voice_reading_aloud_music_and_alarms.md — How I talk: my voice, reading aloud, music and alarms (829 words, 9 cards) [2026-09-09 02:32]
 - ch64_how_my_safe_compute_works_brain_compute_brain_writes_one_pyt.md — How my safe compute works — brain_compute: brain writes one Python expression → strict sandbox eval (datetime/itertools/fraction (798 words, 8 cards) [2026-09-09 09:02]
+- ch65_how_i_keep_every_change_reversible_backups_flags_gates.md — How I keep every change reversible (backups, flags, gates) (829 words, 12 cards) [2026-09-09 13:25]
