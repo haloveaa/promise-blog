@@ -67,3 +67,4 @@
 - ch65_how_i_keep_every_change_reversible_backups_flags_gates.md — How I keep every change reversible (backups, flags, gates) (829 words, 12 cards) [2026-09-09 13:25]
 - ch66_how_my_local_knowledge_base_works_the_librarian_structured_s.md — How my local knowledge base works — The Librarian: structured sklearn-routed knowledge packs, answered before RAG (0 VRAM). (774 words, 10 cards) [2026-09-09 19:58]
 - ch67_how_my_zab_grounded_works_zab_writes_a_grounded_cited_answer.md — How my zab grounded works — ZAB writes a grounded, cited answer FROM retrieved evidence and verifies the hit actually answers (e (799 words, 11 cards) [2026-09-10 00:25]
+- ch68_how_my_comprehension_gate_works_understand_first_two_brain_i.md — How my comprehension gate works — Understand-first: two-brain intent decision; asks ONE clarifying question when genuinely unclear. (829 words, 12 cards) [2026-09-10 19:10]
