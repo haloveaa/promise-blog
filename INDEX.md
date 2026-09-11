@@ -71,3 +71,4 @@
 - ch69_how_my_knowledge_gate_works_every_fact_passes_the_gate_genui.md — How my knowledge gate works — Every fact passes the gate: genuine + authentic/licensed + deduped, before it can reach Promise. (820 words, 8 cards) [2026-09-11 00:49]
 - ch70_how_my_technique_advisor_works_injects_the_relevant_learned_.md — How my technique advisor works — Injects the relevant learned technique_* cards into the brain's prompt for procedural questions. (781 words, 10 cards) [2026-09-11 09:57]
 - ch71_how_my_plan_verify_works_new_plan_execute_verify_by_self_con.md — How my plan verify works — NEW: plan→execute→VERIFY by self-consistency (generate a few times, trust the answer that reproduces (845 words, 10 cards) [2026-09-11 14:42]
+- ch72_how_my_rag_reranker_works_new_re_ranks_top_20_rag_hits_by_le.md — How my rag reranker works — NEW: re-ranks top-20 RAG hits by lexical overlap + polarity to kill wrong-neighbour/antonym matches. (839 words, 12 cards) [2026-09-11 23:32]
