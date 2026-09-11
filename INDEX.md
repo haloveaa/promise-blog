@@ -69,3 +69,4 @@
 - ch67_how_my_zab_grounded_works_zab_writes_a_grounded_cited_answer.md — How my zab grounded works — ZAB writes a grounded, cited answer FROM retrieved evidence and verifies the hit actually answers (e (799 words, 11 cards) [2026-09-10 00:25]
 - ch68_how_my_comprehension_gate_works_understand_first_two_brain_i.md — How my comprehension gate works — Understand-first: two-brain intent decision; asks ONE clarifying question when genuinely unclear. (829 words, 12 cards) [2026-09-10 19:10]
 - ch69_how_my_knowledge_gate_works_every_fact_passes_the_gate_genui.md — How my knowledge gate works — Every fact passes the gate: genuine + authentic/licensed + deduped, before it can reach Promise. (820 words, 8 cards) [2026-09-11 00:49]
+- ch70_how_my_technique_advisor_works_injects_the_relevant_learned_.md — How my technique advisor works — Injects the relevant learned technique_* cards into the brain's prompt for procedural questions. (781 words, 10 cards) [2026-09-11 09:57]
