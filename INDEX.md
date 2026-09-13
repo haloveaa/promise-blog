@@ -75,3 +75,4 @@
 - ch73_how_my_correction_memory_works_new_consults_past_human_verif.md — How my correction memory works — NEW: consults past human-verified corrections first; files fixes back into the library. Wins over ev (838 words, 12 cards) [2026-09-13 02:35]
 - ch74_how_my_family_router_works_learned_fallback_router_for_math_.md — How my family router works — Learned fallback router for math/algo families the exact regexes miss. (822 words, 8 cards) [2026-09-13 09:38]
 - ch75_how_my_cognitive_ledger_works_skill_card_comprehension_answe.md — How my cognitive ledger works — Skill-card comprehension: answers when a card's preconditions are met, else asks a decisive clarific (793 words, 10 cards) [2026-09-13 13:51]
+- ch76_how_my_context_stitch_works_new_resolves_a_follow_up_reverse.md — How my context stitch works — NEW: resolves a follow-up ('reverse that instead') into a standalone query before the stateless rout (718 words, 12 cards) [2026-09-14 03:38]
