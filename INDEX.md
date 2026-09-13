@@ -73,3 +73,4 @@
 - ch71_how_my_plan_verify_works_new_plan_execute_verify_by_self_con.md — How my plan verify works — NEW: plan→execute→VERIFY by self-consistency (generate a few times, trust the answer that reproduces (845 words, 10 cards) [2026-09-11 14:42]
 - ch72_how_my_rag_reranker_works_new_re_ranks_top_20_rag_hits_by_le.md — How my rag reranker works — NEW: re-ranks top-20 RAG hits by lexical overlap + polarity to kill wrong-neighbour/antonym matches. (839 words, 12 cards) [2026-09-11 23:32]
 - ch73_how_my_correction_memory_works_new_consults_past_human_verif.md — How my correction memory works — NEW: consults past human-verified corrections first; files fixes back into the library. Wins over ev (838 words, 12 cards) [2026-09-13 02:35]
+- ch74_how_my_family_router_works_learned_fallback_router_for_math_.md — How my family router works — Learned fallback router for math/algo families the exact regexes miss. (822 words, 8 cards) [2026-09-13 09:38]
